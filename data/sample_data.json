@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "source": "instagram",
+      "caption": "Amazing weekend in Goa with @rahul_kapoor and @priya_singh! Beach sunset was magical \ud83c\udf05",
+      "date": "2026-03-15"
+    },
+    {
+      "source": "instagram",
+      "caption": "Priya's birthday is on 25th March. Planning a surprise!",
+      "date": "2026-03-20"
+    },
+    {
+      "source": "instagram",
+      "caption": "Just joined EcoFuelZ as Product Intern! #GreenTech",
+      "date": "2026-02-01"
+    }
+  ],
+  "threads": [
+    {
+      "id": "th_001",
+      "title": "Goa Trip Planning",
+      "messages": [
+        {
+          "user": "Shivansh",
+          "text": "Guys, Goa this weekend?",
+          "date": "2026-03-12"
+        },
+        {
+          "user": "Rahul",
+          "text": "Yes! Priya is joining too.",
+          "date": "2026-03-12"
+        },
+        {
+          "user": "Priya",
+          "text": "Booking hotel near Calangute Beach.",
+          "date": "2026-03-13"
+        }
+      ]
+    }
+  ],
+  "chats": [
+    {
+      "chat_name": "College Friends",
+      "messages": [
+        {
+          "sender": "Rahul",
+          "text": "Priya birthday 25th March. Let's gift her a silver necklace from Tanishq.",
+          "date": "2026-03-05"
+        },
+        {
+          "sender": "Shivansh",
+          "text": "Good idea. I can contribute 2000.",
+          "date": "2026-03-06"
+        }
+      ]
+    }
+  ]
+}
