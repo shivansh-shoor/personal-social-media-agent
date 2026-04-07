@@ -1,0 +1,9 @@
+name: personal-social-memory-agent
+version: "1.0"
+description: Personal Social Memory Agent - An OpenEnv environment that tests fact extraction, thread summarization, and multi-hop reasoning across synthetic Instagram, Threads, and WhatsApp data.
+author: Shivansh Dev Shoor
+tasks:
+  - fact_extraction
+  - thread_summary
+  - multi_hop_qa
+reward_range: [0.0, 1.0]
